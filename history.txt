@@ -1,0 +1,134 @@
+    1  git init
+    2  git status
+    3  git add file1.txt
+    4  git add  file1.txt.txt
+    5  git add  file1.txt
+    6  git status
+    7* 
+    8  git commit -m"initial commit"
+    9  [200~ git config --global user.email "jejasatish@gmail.com"
+   10  git status
+   11  git log
+   12  git commit -m"initial commit"
+   13  git status
+   14  git log
+   15  git status
+   16  git add  file1.txt.txt
+   17  git commit -m"initial commit"
+   18  git status
+   19  git log
+   20   git commit -m "1st developer code"
+   21  git init
+   22  git status
+   23  git config --global user.email "jejasatish@gmail.com"
+   24  git config --global user.name "jeja satish"
+   25  git config --list
+   26  git status
+   27  git log
+   28  git commit -m "initial commit"
+   29  git log
+   30  git commit -m "1st developer code"
+   31  git log
+   32  git reflog
+   33  git add  file1.txt.txt
+   34  git commit -m "first Developer code"
+   35  git status
+   36  git log
+   37  git reflog
+   38  git --oneline
+   39  git log --oneline
+   40  git revert 6cf3342
+   41  git log
+   42  git log --oneline
+   43  git add file1.txt.txt
+   44  git commit -m "1st developer code"
+   45  git log
+   46  git log --oneline
+   47  git reflog
+   48  git branch new_branch1 master
+   49  git branch -a
+   50  git checkout new_branch1
+   51  ls -a
+   52  git status
+   53  git add file1.txt.txt
+   54  git status
+   55  git commit -m "branch1 changes"
+   56  git status
+   57  cat file1.txt.txt
+   58  git checkout master
+   59  cat file1.txt.txt
+   60  cat file1.txt.txt
+   61  cat file1.txt.txt
+   62  git checkout new_branch1
+   63  cat file1.txt.txt
+   64  git checkout new_branch1
+   65  git checkout new_branch1
+   66  git status
+   67  git commit -a
+   68  git status
+   69  git log
+   70  git checkout new_branch1
+   71  git commit -m "branch1 code"
+   72  git add file1.txt.txt
+   73  git commit -m "branch1 code"
+   74  git status
+   75  git log
+   76  git branch -a
+   77  ls -a
+   78  git checkout new_branch1
+   79  git log -a
+   80  ls -a
+   81  git branch -a
+   82  git branch -a
+   83  ls -a
+   84  git checkout master
+   85  git status
+   86  git ref log
+   87  git reflog
+   88  cat master
+   89  cat file1.txt.txt
+   90  git  cat file1.txt.txt
+   91  cat file1.txt.txt
+   92  cat file1.txt.txt
+   93  git log -oneline
+   94  git log --oneline
+   95  git revert 2d6dc9f
+   96  git status
+   97  git branch -a
+   98  git log
+   99  cat file1.txt.txt
+  100  cat file1.txt.txt
+  101  git log --oneline
+  102  git revert 6cf3342
+  103  git revert 6cf3342
+  104  ls -a
+  105  cat file1.txt.txt
+  106  git checkout new_branch1
+  107  ls -a
+  108  cat file1.txt.txt
+  109  git checkout master
+  110  git merge new_branch1 master
+  111  cat file1.txt.txt
+  112  git checkout new_branch1
+  113  cat file1.txt.txt
+  114  git checkout master
+  115  cat file1.txt.txt
+  116  git log --oneline
+  117  git -a
+  118  git -a(all files)
+  119  git -A
+  120  -A
+  121  git add -A
+  122  git status
+  123  cat file1.txt.txt
+  124  clear
+  125  git remote origin https://github.com/Jejasatish/Selenium-Java-2024.git
+  126   git add remote origin https://github.com/Jejasatish/Selenium-Java-2024.git
+  127  git remote add origin https://github.com/Jejasatish/Selenium-Java-2024.git
+  128  git remote -v
+  129   get push
+  130  git push
+  131  git push --set-upstream origin master
+  132  git status
+  133  history
+  134  history>history.txt
